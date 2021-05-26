@@ -6,7 +6,9 @@ link:- https://share.streamlit.io/rashmdesh/wine-quality-check/main/Red_wine_qua
 Github link:-https://github.com/RashmDesh/Wine-Quality-Check
 
 Wine Quality Check Project.ipynb ;- This file contain wine datasets EDA and applyting  ML. 
+
 Red_Wine_quality.py:-   This file contains Streamlite app code with  wine quality prediction using DT_Model.pkl  
+
 DT_Model.pkl:-This is decision tree model which we are going to use for wine quality checking.
 
 
