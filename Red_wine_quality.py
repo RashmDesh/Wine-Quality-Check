@@ -18,7 +18,7 @@ def run():
     st.markdown(html_temp, unsafe_allow_html=True)
 
     fixed_acidity=st.slider("1. Select fixied acidity level :",4.0,16.0)
-    volatile_acidity=st.number_input("2. Select volatile acidity level(Min=0.00 and Max=2.00) :")
+    volatile_acidity=st.slider("2. Select volatile acidity level:",0.0,2.0)
     citric_acid=st.slider("3. Select citric acid level :",0.0,1.0)
     residual_sugar=st.slider("4. Select residual sugar level:",0,15)
     density=st.slider("5. Select density level :",0.0,1.0)
