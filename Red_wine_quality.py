@@ -32,9 +32,9 @@ def run():
         lc = [str(i) for i in prediction]
         ans = int("".join(lc))
         st.write("Quality of wine is ",ans," out of 10")
-        if ans >6:
+        if ans >=6:
             st.success("Quality of Wine is Superb")
-        elif(ans<=6 and ans >= 5):
+        elif(ans<6 and ans >= 5):
             st.success("Quality of Wine is Good")
         else:
             st.success("Quality of  Wine  is Bad")
