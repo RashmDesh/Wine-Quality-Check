@@ -5,12 +5,12 @@ from PIL import Image
 import pickle
 
 
-model = pickle.load(open('C:/Users/lenovo/Desktop/datasets/Red wine quality/ML_Model.pkl', 'rb'))
+model = pickle.load(open('ML_Model.pkl', 'rb'))
 
 html_temp=""" <div style="background-color:#722F37;padding:2px"> """
 
 def run():
-    img1 = Image.open('C:/Users/lenovo/Desktop/datasets/Red wine quality/wine.png')
+    img1 = Image.open('wine.png')
     img1 = img1.resize((500,245))
     st.image(img1,use_column_width=False)
     st.title("Wine Quality Check")
