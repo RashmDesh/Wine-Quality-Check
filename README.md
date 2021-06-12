@@ -1,22 +1,22 @@
 # Wine-Quality-Check
-Link of Wine Quality Check project streamlit app
+* Link of Wine Quality Check project streamlit app
 
 link:- https://share.streamlit.io/rashmdesh/wine-quality-check/main/Red_wine_quality.py
 
 Github link:-https://github.com/RashmDesh/Wine-Quality-Check
 
-Wine Quality Check Project.ipynb ;- This file contain wine datasets EDA and applyting  ML. 
+* Wine Quality Check Project.ipynb ;- This file contain wine datasets EDA and applyting  ML. 
 
-Red_Wine_quality.py:-   This file contains Streamlite app code with  wine quality prediction using DT_Model.pkl  
+* Red_Wine_quality.py:-   This file contains Streamlite app code with  wine quality prediction using DT_Model.pkl  
 
-DT_Model.pkl:-This is decision tree model which we are going to use for wine quality checking.
+* DT_Model.pkl:-This is decision tree model which we are going to use for wine quality checking.
 
 
-ABOUT DATASET
+* ABOUT DATASET:-
 
 The Wine Quality dataset contains information about various physicochemical properties of wines. File are going to download and load the dataset into Python and perform an initial analysis to disclose what is inside it. And applying some Machine learning algorithms.
 
-FEATURES DESCRIPTION
+* FEATURES DESCRIPTION:-
 
 Fixed acidity: It indicates the amount of tartaric acid in wine and is measured in g/dm3
 
