@@ -14,7 +14,7 @@ DT_Model.pkl:-This is decision tree model which we are going to use for wine qua
 
 ABOUT DATASET
 
-The Wine Quality dataset contains information about various physicochemical properties of wines. e are going to download and load the dataset into Python and perform an initial analysis to disclose what is inside it. And applying some Machine learning algorithms.
+The Wine Quality dataset contains information about various physicochemical properties of wines. File are going to download and load the dataset into Python and perform an initial analysis to disclose what is inside it. And applying some Machine learning algorithms.
 
 FEATURES DESCRIPTION
 
